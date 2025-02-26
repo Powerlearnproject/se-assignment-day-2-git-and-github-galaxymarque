@@ -34,14 +34,23 @@ repository button
 
 -Some important decision that should be made are:
      *Repository Name
+
      *Visibility
+
      *Public- Allow anyone to view and access the code. 
+
      *Privacy to restrict access to authorized collaborators only. 
+
      *Description -provide a clear summary of the project's purpose and functionality. 
+
      * Lincense
+
      *README File to Initialize the repository with a README to provide essential information 
+
      *Branching Strategy-to be able to manage different development stages. 
+
       *Collaborator Access
+
       *Topics-add relevant topics to categorize the repository and make it easier to discover. 
 
 (quiz 3)# Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
