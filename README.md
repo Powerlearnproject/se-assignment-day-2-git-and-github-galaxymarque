@@ -26,6 +26,9 @@
   Step 3: After clicking new repository option, we will have to initialize some things like, naming our project, choosing the visibility .Then click create 
 repository button
 
+   Step 4:It will direct you to a page where you will upload all files that you have included read me file.
+
+  Step 5: Follow the steps mentioned in the  click “commit changes”
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
