@@ -131,6 +131,24 @@ Enables teams to work on projects without exposing them to the public until read
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
+   *Create a sample project.
+
+   *Clone the repository.
+
+   *Create a branch and make your changes.
+
+   *Commit and push your changes.
+
+   *Merge your changes.
+
+   *View your changes in GitLab.
+
+
+Commits ensure that all changes are gathered in a central repository, keeping the entire team informed about the changes
+
+Commits are used to manage different versions of the software. This is especially important in large projects where tracking different versions and updates is done through commits.
+
+
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
