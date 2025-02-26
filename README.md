@@ -23,7 +23,9 @@
   Step 2: Click on the new repository option.
 
 
-  Step 3: After clicking new repository option, we will have to initialize some things like, naming our project, choosing the visibility 
+  Step 3: After clicking new repository option, we will have to initialize some things like, naming our project, choosing the visibility .Then click create 
+repository button
+
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
