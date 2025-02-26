@@ -10,7 +10,10 @@
     (iii)Branch: A parallel line of development that allows developers to work on separate features without affecting the main codebase. 
    (iv)Merge: Combining changes from different branches back into the main codebase.
  
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+
+Git hub is popular because it helps reduce duplicating work and also  allows developers to try new things. If the changes aren't positive, they can easily revert back to the previous version
+
+.29 Nov 2023## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
