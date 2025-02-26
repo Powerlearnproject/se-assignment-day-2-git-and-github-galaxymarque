@@ -158,6 +158,25 @@ Commits are used to manage different versions of the software. This is especiall
 
 .## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
+
+It's role is it acts as a formal proposal to merge changes made on a feature branch into the main codebase, allowing for collaborative code review, discussion, and quality checks before integrating the changes, effectively enhancing code quality and ensuring team alignment by providing a visible platform for feedback and discussion on proposed changes. 
+
+
+it facilitates collaboration by allowing developers to share their code with peers for feedback, which helps to improve code quality, identify potential issues early on, and ensure consistency across the codebase, ultimately strengthening team
+
+
+(1) creating a new branch from the main codebase
+
+ (2) making changes on that branch
+
+ (3) pushing the changes to a remote repository
+
+ (4) initiating a pull request with a clear description of the changes
+
+(5) receiving feedback and addressing any requested revisions, and finally
+
+ (6) merging the changes into the main branch once the pull request is approved
+
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
